@@ -68,6 +68,14 @@ Caso queira modificar os emojis, cores ou número de cartas:
 
 ---
 
+---
+# 🕹 **🎮 Jogo da Memória com Emojis**
+
+<p align="center">
+  <img src="./src/imagem/gamePNG01.png" alt="🎮 Jogo da Memória com Emojis">
+</p>
+---
+
 ## 📸 **Captura de Tela do Jogo**
 <img src="https://via.placeholder.com/500x300?text=Captura+de+Tela+do+Jogo" alt="Captura de tela do jogo" width="500">
 
